@@ -15,7 +15,7 @@ Here are some links that can help you bootstrap with developing with Azure RTOS:
 - [Product overview](https://learn.microsoft.com/azure/rtos/overview-rtos)
 - [Getting started guides](https://github.com/azure-rtos/getting-started) and [sample projects](https://github.com/azure-rtos/samples)
 - [Pre-licensed devices](https://github.com/azure-rtos/threadx/blob/master/LICENSED-HARDWARE.txt) and [licensing options](https://aka.ms/azrtos-license)
-- [General technical questions](https://azure.com/rtos)
+- [General technical questions](https://aka.ms/QnA/azure-rtos)
 - [Releases and long term support (LTS)](https://learn.microsoft.com/azure/rtos/general/lts)
 
 Visit [https://azure.com/rtos](https://azure.com/rtos) to learn more about the product and licensing information.
