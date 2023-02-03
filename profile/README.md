@@ -1,4 +1,4 @@
-![Logo](../images/azure-rtos-logo.svg | width=128)
+![Logo](/azure-rtos/.github/blob/main/images/azure-rtos-logo.svg | width=128)
 
 # Azure RTOS
 
@@ -6,7 +6,7 @@ Azure RTOS is an embedded development suite including a small but powerful opera
 
 In addition to the Azure RTOS ThreadX, which is the kernel of RTOS, Azure RTOS provides a set of system components to accelerate building embedded systems and IoT applications.
 
-![System components](../images/azure-rtos-system-components.png)
+![System components](/azure-rtos/.github/blob/main/images/azure-rtos-system-components.png)
 
 You can find all source code of Azure RTOS system components organized by individual repositories.
 
