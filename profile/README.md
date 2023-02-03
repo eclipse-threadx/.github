@@ -1,4 +1,4 @@
-![Logo](/images/azure-rtos-logo.svg | width=128)
+<img src="/images/azure-rtos-logo.svg" alt="Logo" style="width:128px;"/>
 
 # Azure RTOS
 
