@@ -1,6 +1,6 @@
 <img src="/images/azure-rtos-logo.svg" alt="Logo" style="width:128px;"/>
 
-# Azure RTOS
+# Eclipse ThreadX RTOS
 
 > **Important:**
 > <br>
@@ -17,15 +17,15 @@
 
 <hr>
 
-Azure RTOS is an embedded development suite including a small but powerful operating system that provides reliable, ultra-fast performance for resource-constrained devices.
+Eclipse ThreadX RTOS is an embedded development suite including a small but powerful operating system that provides reliable, ultra-fast performance for resource-constrained devices.
 
-In addition to the Azure RTOS ThreadX, which is the kernel of RTOS, Azure RTOS provides a set of system components to accelerate building embedded systems and IoT applications.
+In addition to the Eclipse RTOS ThreadX, which is the kernel of RTOS, Eclipse ThreadX RTOS provides a set of system components to accelerate building embedded systems and IoT applications.
 
 ![System components](/images/azure-rtos-system-components.png)
 
-You can find all source code of Azure RTOS system components organized by individual repositories.
+You can find all source code of Eclipse ThreadX RTOS system components organized by individual repositories.
 
-Here are some links that can help you bootstrap with developing with Azure RTOS:
+Here are some links that can help you bootstrap with developing with Eclipse ThreadX RTOS:
 
 - [Product overview](https://learn.microsoft.com/azure/rtos/overview-rtos)
 - [Getting started guides](https://github.com/azure-rtos/getting-started) and [sample projects](https://github.com/azure-rtos/samples)
