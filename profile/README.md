@@ -1,5 +1,3 @@
-<img src="/images/azure-rtos-logo.svg" alt="Logo" style="width:128px;"/>
-
 # Eclipse ThreadX RTOS
 
 > **Important:**
