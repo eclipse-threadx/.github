@@ -1,3 +1,3 @@
-# Azure RTOS
+# Eclipse ThreadX RTOS
 
-Description of Azure RTOS GitHub
+Description of Eclipse ThreadX RTOS GitHub
