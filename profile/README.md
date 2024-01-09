@@ -25,10 +25,10 @@ You can find all source code of Eclipse ThreadX RTOS system components organized
 
 Here are some links that can help you bootstrap with developing with Eclipse ThreadX RTOS:
 
-- [Product overview](https://learn.microsoft.com/azure/rtos/overview-rtos)
-- [Getting started guides](https://github.com/azure-rtos/getting-started) and [sample projects](https://github.com/azure-rtos/samples)
-- [Pre-licensed devices](https://github.com/azure-rtos/threadx/blob/master/LICENSED-HARDWARE.txt) and [licensing options](https://aka.ms/azrtos-license)
-- [General technical questions](https://aka.ms/QnA/azure-rtos)
-- [Releases and long term support (LTS)](https://learn.microsoft.com/azure/rtos/general/lts)
+- [Product overview](https://github.com/eclipse-threadx/rtos-docs)
+- [Getting started guides](https://github.com/eclipse-threadx/getting-started) and [sample projects](https://github.com/eclipse-threadx/samples)
+- [Pre-licensed devices](https://github.com/eclipse-threadx/threadx/blob/master/LICENSED-HARDWARE.txt) and [licensing options](https://github.com/eclipse-threadx)
+- [General technical questions](https://github.com/eclipse-threadx)
+- [Releases and long term support (LTS)](https://github.com/eclipse-threadx)
 
-Visit [https://azure.com/rtos](https://azure.com/rtos) to learn more about the product and licensing information.
+Visit [link](https://github.com/eclipse-threadx) to learn more about the product and licensing information.
