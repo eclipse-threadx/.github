@@ -1,4 +1,4 @@
-# Eclipse ThreadX RTOS
+# Eclipse ThreadX
 
 > **Important:**
 > <br>
@@ -15,15 +15,15 @@
 
 <hr>
 
-Eclipse ThreadX RTOS is an embedded development suite including a small but powerful operating system that provides reliable, ultra-fast performance for resource-constrained devices.
+Eclipse ThreadX is an embedded development suite including a small but powerful operating system that provides reliable, ultra-fast performance for resource-constrained devices.
 
-In addition to the Eclipse RTOS ThreadX, which is the kernel of RTOS, Eclipse ThreadX RTOS provides a set of system components to accelerate building embedded systems and IoT applications.
+In addition to the ThreadX, which is the kernel of RTOS, Eclipse ThreadX provides a set of system components to accelerate building embedded systems and IoT applications.
 
 ![System components](/images/Eclipse-ThreadX.png)
 
-You can find all source code of Eclipse ThreadX RTOS system components organized by individual repositories.
+You can find all source code of Eclipse ThreadX system components organized by individual repositories.
 
-Here are some links that can help you bootstrap with developing with Eclipse ThreadX RTOS:
+Here are some links that can help you bootstrap with developing with Eclipse ThreadX:
 
 - [Product overview](https://github.com/eclipse-threadx/rtos-docs)
 - [Getting started guides](https://github.com/eclipse-threadx/getting-started) and [sample projects](https://github.com/eclipse-threadx/samples)
