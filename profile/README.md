@@ -27,8 +27,5 @@ Here are some links that can help you bootstrap with developing with Eclipse Thr
 
 - [Product overview](https://github.com/eclipse-threadx/rtos-docs)
 - [Getting started guides](https://github.com/eclipse-threadx/getting-started) and [sample projects](https://github.com/eclipse-threadx/samples)
-- [Pre-licensed devices](https://github.com/eclipse-threadx/threadx/blob/master/LICENSED-HARDWARE.txt) and [licensing options](https://github.com/eclipse-threadx)
-- [General technical questions](https://github.com/eclipse-threadx)
-- [Releases and long term support (LTS)](https://github.com/eclipse-threadx)
+- [General technical questions](https://accounts.eclipse.org/mailing-list/threadx)
 
-Visit [link](https://github.com/eclipse-threadx) to learn more about the product and licensing information.
